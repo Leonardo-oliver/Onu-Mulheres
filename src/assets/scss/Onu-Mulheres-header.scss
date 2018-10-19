@@ -1,0 +1,52 @@
+
+
+html {
+	body{
+		font-family: sans-serif; 
+		.e-center{
+			text-align: center;
+			width: 100%;
+			header{
+				float: left;
+				width: 100%;
+				padding: 0 10%;
+				.logo{
+					float: left;
+					width: 20%;
+					margin-top: 30px;
+					h1{
+						background-image: url(../img/logo-header.png);
+						background-repeat: no-repeat;
+						width: 159px;
+						height: 37px;
+						font-size: 0;
+					}
+				}
+				nav{
+					float: left;
+					width: 100%;
+					&.menu{
+						float: left;
+						width: 80%;
+						margin-top: 32px;
+						margin-left: -8px;
+						ul{
+							float: left;
+							
+							li{
+								float: left;
+								display: inline;
+								padding: 0 20px;
+								a{
+									color: #C2BCBC;
+									font-size: 16px;
+									letter-spacing: 1px;	
+								}
+							}
+						}
+					}	
+				}
+			}
+        }
+    }
+}            

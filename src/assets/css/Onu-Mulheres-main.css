@@ -1,0 +1,380 @@
+html body {
+  font-family: sans-serif; }
+  html body .e-center {
+    text-align: center;
+    width: 100%; }
+    html body .e-center main {
+      float: left;
+      width: 100%; }
+      html body .e-center main section {
+        float: left;
+        width: 100%; }
+        html body .e-center main section.main-banner {
+          float: left;
+          width: 100%;
+          margin-bottom: 70px;
+          position: relative; }
+          html body .e-center main section.main-banner img {
+            width: 100%;
+            height: auto; }
+          html body .e-center main section.main-banner span {
+            float: left;
+            width: 100%;
+            height: 95px;
+            display: block;
+            margin-top: -14%;
+            position: absolute; }
+            html body .e-center main section.main-banner span h2 {
+              font-size: 40px;
+              text-align: center;
+              color: #fff;
+              font-weight: bold;
+              text-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.5); }
+        html body .e-center main section.services {
+          width: 100%;
+          float: left;
+          padding: 0 100px;
+          margin-bottom: 80px; }
+          html body .e-center main section.services article {
+            float: left;
+            width: 100%; }
+            html body .e-center main section.services article.painting_1 {
+              float: left;
+              width: 58%;
+              height: 540px; }
+              html body .e-center main section.services article.painting_1 .service_1 {
+                float: left;
+                width: 100%;
+                height: 250px;
+                padding: 90px;
+                border: 2px solid #dcc;
+                background-color: #D8D8D8;
+                margin-bottom: 20px; }
+                html body .e-center main section.services article.painting_1 .service_1 h2 {
+                  line-height: 30px;
+                  letter-spacing: 1px;
+                  font-weight: bold;
+                  font-size: 24px;
+                  color: #fff; }
+                html body .e-center main section.services article.painting_1 .service_1 a {
+                  color: #fff;
+                  font-size: 14px;
+                  line-height: 30px;
+                  text-align: center;
+                  text-decoration: underline; }
+              html body .e-center main section.services article.painting_1 .service_2 {
+                float: left;
+                width: 58.2%;
+                height: 270px;
+                padding: 83px;
+                background-color: #D8D8D8; }
+                html body .e-center main section.services article.painting_1 .service_2 h2 {
+                  font-size: 20px;
+                  font-weight: bold;
+                  line-height: 25px;
+                  text-align: center;
+                  color: #fff; }
+                html body .e-center main section.services article.painting_1 .service_2 a {
+                  color: #fff;
+                  font-size: 14px;
+                  line-height: 30px;
+                  text-align: center;
+                  text-decoration: underline; }
+              html body .e-center main section.services article.painting_1 .service_3 {
+                float: right;
+                width: 39.2%;
+                height: 270px;
+                padding: 50px;
+                background-color: #D8D8D8; }
+                html body .e-center main section.services article.painting_1 .service_3 h2 {
+                  font-size: 20px;
+                  font-weight: bold;
+                  line-height: 25px;
+                  text-align: center;
+                  color: #fff;
+                  margin-top: 57px; }
+                html body .e-center main section.services article.painting_1 .service_3 a {
+                  color: #fff;
+                  font-size: 14px;
+                  line-height: 30px;
+                  text-align: center;
+                  text-decoration: underline; }
+            html body .e-center main section.services article.painting_2 {
+              float: left;
+              width: 40%;
+              height: 539px;
+              margin-left: 20px;
+              background-color: #C2BCBC; }
+              html body .e-center main section.services article.painting_2 h2 {
+                margin-bottom: 50px;
+                margin-top: 50px;
+                text-align: -webkit-left;
+                margin-left: 50px;
+                color: #fff;
+                font-weight: bold;
+                font-size: 24px; }
+              html body .e-center main section.services article.painting_2 .list_1 {
+                float: left;
+                width: 100%;
+                margin-bottom: 40px; }
+                html body .e-center main section.services article.painting_2 .list_1 ul {
+                  float: left;
+                  margin-left: 50px; }
+                  html body .e-center main section.services article.painting_2 .list_1 ul li {
+                    display: inline-block; }
+                    html body .e-center main section.services article.painting_2 .list_1 ul li:nth-child(1) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #D0CECE; }
+                      html body .e-center main section.services article.painting_2 .list_1 ul li:nth-child(1):hover {
+                        color: #fff; }
+                    html body .e-center main section.services article.painting_2 .list_1 ul li:nth-child(2) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #fff; }
+                      html body .e-center main section.services article.painting_2 .list_1 ul li:nth-child(2):hover {
+                        color: #D0CECE; }
+                    html body .e-center main section.services article.painting_2 .list_1 ul li:nth-child(3) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #fff; }
+                      html body .e-center main section.services article.painting_2 .list_1 ul li:nth-child(3):hover {
+                        color: #D0CECE; }
+                    html body .e-center main section.services article.painting_2 .list_1 ul li p {
+                      text-align: -webkit-left;
+                      margin-left: 10px;
+                      font-size: 20px;
+                      color: #fff; }
+              html body .e-center main section.services article.painting_2 .list_2 {
+                float: left;
+                width: 100%;
+                margin-left: 2px;
+                margin-bottom: 40px; }
+                html body .e-center main section.services article.painting_2 .list_2 ul {
+                  float: left;
+                  margin-left: 50px; }
+                  html body .e-center main section.services article.painting_2 .list_2 ul li {
+                    display: inline-block; }
+                    html body .e-center main section.services article.painting_2 .list_2 ul li:nth-child(1) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #D0CECE; }
+                      html body .e-center main section.services article.painting_2 .list_2 ul li:nth-child(1):hover {
+                        color: #fff; }
+                    html body .e-center main section.services article.painting_2 .list_2 ul li:nth-child(2) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #D0CECE; }
+                      html body .e-center main section.services article.painting_2 .list_2 ul li:nth-child(2):hover {
+                        color: #fff; }
+                    html body .e-center main section.services article.painting_2 .list_2 ul li:nth-child(3) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #fff; }
+                      html body .e-center main section.services article.painting_2 .list_2 ul li:nth-child(3):hover {
+                        color: #D0CECE; }
+                    html body .e-center main section.services article.painting_2 .list_2 ul li p {
+                      text-align: -webkit-left;
+                      margin-left: 10px;
+                      font-size: 20px;
+                      color: #fff; }
+              html body .e-center main section.services article.painting_2 .list_3 {
+                float: left;
+                width: 100%;
+                margin-bottom: 40px; }
+                html body .e-center main section.services article.painting_2 .list_3 ul {
+                  float: left;
+                  margin-left: 50px; }
+                  html body .e-center main section.services article.painting_2 .list_3 ul li {
+                    display: inline-block; }
+                    html body .e-center main section.services article.painting_2 .list_3 ul li:nth-child(1) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #fff; }
+                      html body .e-center main section.services article.painting_2 .list_3 ul li:nth-child(1):hover {
+                        color: #D0CECE; }
+                    html body .e-center main section.services article.painting_2 .list_3 ul li:nth-child(2) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #fff; }
+                      html body .e-center main section.services article.painting_2 .list_3 ul li:nth-child(2):hover {
+                        color: #D0CECE; }
+                    html body .e-center main section.services article.painting_2 .list_3 ul li:nth-child(3) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #fff; }
+                      html body .e-center main section.services article.painting_2 .list_3 ul li:nth-child(3):hover {
+                        color: #D0CECE; }
+                    html body .e-center main section.services article.painting_2 .list_3 ul li p {
+                      text-align: -webkit-left;
+                      margin-left: 10px;
+                      font-size: 20px;
+                      color: #fff; }
+              html body .e-center main section.services article.painting_2 .list_4 {
+                float: left;
+                width: 100%;
+                margin-left: 3px; }
+                html body .e-center main section.services article.painting_2 .list_4 ul {
+                  float: left;
+                  margin-left: 50px; }
+                  html body .e-center main section.services article.painting_2 .list_4 ul li {
+                    display: inline-block; }
+                    html body .e-center main section.services article.painting_2 .list_4 ul li:nth-child(1) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #D0CECE; }
+                      html body .e-center main section.services article.painting_2 .list_4 ul li:nth-child(1):hover {
+                        color: #fff; }
+                    html body .e-center main section.services article.painting_2 .list_4 ul li:nth-child(2) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #fff; }
+                      html body .e-center main section.services article.painting_2 .list_4 ul li:nth-child(2):hover {
+                        color: #D0CECE; }
+                    html body .e-center main section.services article.painting_2 .list_4 ul li:nth-child(3) {
+                      font-weight: bold;
+                      font-size: 48px;
+                      color: #fff; }
+                      html body .e-center main section.services article.painting_2 .list_4 ul li:nth-child(3):hover {
+                        color: #D0CECE; }
+                    html body .e-center main section.services article.painting_2 .list_4 ul li p {
+                      text-align: -webkit-left;
+                      margin-left: 10px;
+                      font-size: 20px;
+                      color: #fff; }
+      html body .e-center main .title-bottom {
+        float: left;
+        width: 100%;
+        margin-bottom: 80px;
+        padding: 0 100px; }
+        html body .e-center main .title-bottom img {
+          float: left;
+          width: 100%; }
+        html body .e-center main .title-bottom ul li h2 {
+          float: left;
+          width: 20%;
+          margin-top: -7%;
+          color: #fff;
+          margin-left: -8px;
+          font-size: 36px;
+          font-weight: bold;
+          letter-spacing: 1px; }
+        html body .e-center main .title-bottom ul li p {
+          float: left;
+          margin-top: -10%;
+          color: #fff;
+          line-height: 22px;
+          margin-left: 25%;
+          text-align: -webkit-auto;
+          letter-spacing: 1px;
+          font-size: 20px; }
+        html body .e-center main .title-bottom ul li a {
+          width: 18.8%;
+          height: 42px;
+          float: right;
+          line-height: 42px;
+          margin-top: -8%;
+          margin-right: 6%;
+          border: 2px solid #969292;
+          background-color: #BBB5B5;
+          color: #fff;
+          font-weight: bold;
+          font-size: 20px; }
+      html body .e-center main .publication {
+        float: left;
+        width: 100%;
+        text-align: center;
+        padding: 0 85px; }
+        html body .e-center main .publication .title-publication {
+          float: left;
+          width: 100%;
+          margin-bottom: 30px;
+          margin-left: 14px; }
+          html body .e-center main .publication .title-publication h2 {
+            float: left;
+            font-size: 26px;
+            font-weight: bold;
+            color: #BBB5B5; }
+        html body .e-center main .publication ul li {
+          display: inline; }
+          html body .e-center main .publication ul li .post_1 {
+            float: left;
+            width: 33%; }
+            html body .e-center main .publication ul li .post_1 img {
+              width: 93%;
+              height: auto; }
+            html body .e-center main .publication ul li .post_1 p {
+              margin-top: 20px;
+              margin-bottom: 30px;
+              line-height: 30px;
+              letter-spacing: 1px;
+              font-size: 18px;
+              font-weight: bold;
+              color: #BBB5B5; }
+            html body .e-center main .publication ul li .post_1 a {
+              text-decoration: underline;
+              font-size: 16px;
+              line-height: 19px;
+              text-align: center;
+              color: #BBB5B5; }
+          html body .e-center main .publication ul li .post_2 {
+            float: left;
+            width: 33%;
+            margin-left: 7px; }
+            html body .e-center main .publication ul li .post_2 img {
+              width: 93%;
+              height: auto; }
+            html body .e-center main .publication ul li .post_2 p {
+              margin-top: 20px;
+              margin-bottom: 20px;
+              line-height: 30px;
+              letter-spacing: 1px;
+              font-size: 18px;
+              font-weight: bold;
+              color: #BBB5B5; }
+            html body .e-center main .publication ul li .post_2 a {
+              top: 40px;
+              text-decoration: underline;
+              font-size: 16px;
+              line-height: 19px;
+              text-align: center;
+              position: relative;
+              color: #BBB5B5; }
+          html body .e-center main .publication ul li .post_3 {
+            float: right;
+            width: 33%; }
+            html body .e-center main .publication ul li .post_3 img {
+              width: 93%;
+              height: auto; }
+            html body .e-center main .publication ul li .post_3 p {
+              margin-top: 20px;
+              margin-bottom: 30px;
+              line-height: 30px;
+              letter-spacing: 1px;
+              font-size: 18px;
+              font-weight: bold;
+              color: #BBB5B5; }
+            html body .e-center main .publication ul li .post_3 a {
+              text-decoration: underline;
+              font-size: 16px;
+              line-height: 19px;
+              text-align: center;
+              color: #BBB5B5; }
+      html body .e-center main .button {
+        float: left;
+        width: 100%;
+        margin-top: 50px;
+        margin-bottom: 170px; }
+        html body .e-center main .button a {
+          height: 48px;
+          width: 353px;
+          border: 2px solid #969292;
+          background-color: #C2BCBC;
+          display: inline-block;
+          line-height: 48px;
+          background: #ccc;
+          font-size: 18px;
+          font-weight: bold;
+          color: #fff; }
+
+/*# sourceMappingURL=Onu-Mulheres-main.css.map */
